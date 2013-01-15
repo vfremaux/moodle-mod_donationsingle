@@ -1,0 +1,100 @@
+<?php // $Id: donationsingle.php,v 1.4 2012-12-15 19:26:36 vf Exp $ 
+      // tracker.php - created with Moodle 1.2 development (2003111400)
+
+$string['access'] = 'Access control';
+$string['alert'] = 'You need to enter a numerical value';
+$string['amount'] = 'Amount needed';
+$string['amountgiven'] = 'How much you want to give ?';
+$string['amountgifted'] = 'Amount given';
+$string['amountneeded'] = 'Amount needed';
+$string['amountraised'] = 'Amount raised';
+$string['anonymous'] = 'Anonymous';
+$string['available'] = 'Avaible from';
+$string['campaigns'] = 'campaign records';
+$string['campaignnumber'] = 'Campaign number';
+$string['campaignid'] = 'Campaign id';
+$string['campaignname'] = 'Campaign name';
+$string['campaignstate'] = 'Campaign state';
+$string['clearsearch'] = 'Clear search criteria';
+$string['confirmation'] = 'Do you want to leave the campaign ?';
+$string['currency'] = 'Currency';
+$string['date'] = 'Date';
+$string['datereported'] = 'Date reported';
+$string['deadline'] = 'Deadline';
+$string['description'] = 'Description';
+$string['details'] = 'Details';
+$string['disable'] = 'disabled';
+$string['dollars'] = 'Dollars $';
+$string['dollarsign'] = '$';
+$string['donate'] = 'make a Donation';
+$string['donatesmall'] = 'donate';
+$string['donationintro'] = 'Campain description';
+$string['donationnumber'] = 'DonationSinle number';
+$string['donations'] = 'View Donations';
+$string['donationsingle:addinstance'] = 'Can add module to course';
+$string['donationsingle:manage'] = 'Can manage donations';
+$string['donator'] = 'donator';
+$string['euros'] = 'Euros €';
+$string['eurossign'] = '€';
+$string['enable'] = 'enabled';
+$string['firstname'] = 'First Name';
+$string['fullname'] = 'Fullname';
+$string['gave'] = 'gave';
+$string['general'] = 'General';
+$string['globalview'] = 'Shows the subcription in block donations';
+$string['helloworld'] = 'Hello World !';
+$string['history'] = 'History';
+$string['publicity'] = 'View identities mode';
+$string['invalid'] = 'You must enter a value greater than 0 or smaller than what has already been donated.';
+$string['makedonation'] = 'Make donation';
+$string['manager'] = 'Manager';
+$string['managernotification'] = 'Send notifications to manager';
+$string['modify'] = 'Modify';
+$string['pluginname'] = 'Donation Unit';
+$string['pluginadministration'] = 'Donation administration';
+$string['modulename'] = 'DonationSingle';
+$string['modulenameplural'] = 'DonationSingles';
+$string['modulename_link'] = 'mod/donationsingle/view';
+$string['mydonation'] = 'My donation';
+$string['name'] = 'Name';
+$string['no'] = 'No';
+$string['notifications'] = 'Notifications';
+$string['options'] = 'Options';
+$string['picture'] = 'Picture';
+$string['postcampaign'] = 'Post a campaign';
+$string['pounds'] = 'Pounds £';
+$string['poundsign'] = '£';
+$string['private'] = 'Private';
+$string['privacystatus'] = 'Privacy status';
+$string['public'] = 'Public (voluntary)';
+$string['publicity0'] = 'This campain requires public exposition of donators. Your identity WILL BE exposed to the other contributors. By contributing in this campain and validating this form, you implicitely accept these terms of use.';
+$string['publicity1'] = 'This campain allows you the choice to be exposed or not to donators and other users. By contributing in this campain and validating this option, you implicitely accept these terms of use.';
+$string['publicity2'] = 'This campain is private and WILL NOT provide ANY public exposition of donators. Only campain owners will be allowed to access to you identity.';
+$string['publicforced'] = 'Public (mandatory)';
+$string['reminder'] = 'Send deadline reminder to donators';
+$string['reportedby'] = 'Reported by';
+$string['searchresults'] = 'Search results';
+$string['sorryhistory'] = 'Sorry, no history record for this user!';
+$string['sorrystring'] = 'Thank you, but you have already made a donation. You may modify it by going on \'My donation\'.';
+$string['summary'] = 'Summary';
+$string['submission'] = 'A new bug is reported in tracker [{$a}]';
+$string['submit'] = 'Submit';
+$string['submitcampaign'] = 'Submit';
+$string['thanks'] = 'Thank you';
+$string['tooearly'] = 'Sorry, donation campaign is not opened yet!';
+$string['userchoice'] = 'User choice';
+$string['uservisible'] = 'Do you want to be visible to others ?';
+$string['view'] = 'Views';
+$string['viewcampaigns'] = 'view campaigns';
+$string['viewcampaign'] = 'Campaign description';
+$string['viewdonations'] = 'view donations';
+$string['yes'] = 'Yes';
+$string['errorsubmission'] = 'Could not submit donation';
+$string['errorbadcampainid'] = 'Bad donation campain ID';
+
+$string['modulename_help'] = 'A Donation Single module instance manages a single
+donation campaign which goal is to collect funds for a dedicated purpose. One
+instance will define a budget goal to reach and propose users to contribute
+by donating or subscribing to the donation campain.  
+';
+
